@@ -7,4 +7,4 @@ D, arrow right = walk
 shift, space = run
 
 ### preview
-<img src="./preview.png" alt="preview image">
+<img src="./assets/preview.png" alt="preview image">
