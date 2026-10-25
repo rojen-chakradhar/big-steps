@@ -8,3 +8,5 @@ shift, space = run
 
 ### preview
 <img src="./assets/preview.png" alt="preview image">
+
+###### I used ai a lil to work on controls. I promise it was not used over the rule. It was only used to make the left screen touch and right screen touch to work for phones.
